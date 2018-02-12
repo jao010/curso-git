@@ -12,6 +12,7 @@ namespace git_teste
 		{
 
 			Console.WriteLine("Ola mundo!");
+			Console.WriteLine("Bom dia!");
 
 			Console.ReadKey();
 
