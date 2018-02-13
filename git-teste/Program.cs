@@ -12,7 +12,6 @@ namespace git_teste
 		{
 
 			Console.WriteLine("Ola mundo!");
-			Console.WriteLine("Bom dia!");
 			Console.WriteLine("Como você está?");
 			Console.WriteLine("gitHub seu lindo S2!");
 
