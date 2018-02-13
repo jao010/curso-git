@@ -19,7 +19,7 @@ namespace git_teste
 				if (i % 2 == 0)
 					Console.WriteLine("GitHub");
 				else
-					Console.WriteLine("PornHub");
+					Console.WriteLine("Hub");
 			}
 
 			Console.ReadKey();
